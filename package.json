@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sauravkmr780/Cypress-Test-Framework.git"
+    "url": "git+https://github.com/Olubolar614/olu-safeguard-qatests.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sauravkmr780/Cypress-Test-Framework/issues"
+    "url": "https://github.com/Olubolar614/olu-safeguard-qatests/issues"
   },
-  "homepage": "https://github.com/sauravkmr780/Cypress-Test-Framework#readme",
+  "homepage": "https://github.com/Olubolar614/olu-safeguard-qatests#readme",
   "dependencies": {
     "cypress": "^13.6.6"
   },
